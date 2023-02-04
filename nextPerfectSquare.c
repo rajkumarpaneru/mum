@@ -1,3 +1,8 @@
+/*
+    Write a function to return the first perfect square that is greater than its integer
+    argument. A perfect square is an integer that is equal to some integer squared.
+*/
+
 #include <stdio.h>
 int nextPerfectSquare(int);
 
